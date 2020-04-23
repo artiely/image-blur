@@ -1,5 +1,5 @@
 <template>
-  <figure
+  <div
     name="blur"
     ref="blur"
     class="blur-img-container"
@@ -8,7 +8,7 @@
     :data-real-height="height"
     :data-src="min"
     :src="src"
-  ></figure>
+  ></div>
 </template>
 
 <script>
