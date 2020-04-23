@@ -1,6 +1,6 @@
 {
   "name": "image-blur",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "private": false,
   "main": "lib/index.umd.min.js",
   "author":"Artiely",
