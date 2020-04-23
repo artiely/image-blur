@@ -73,6 +73,7 @@ export default {
   left: 0;
   width: 100%;
   height: 100%;
+  object-fit: cover;
   opacity: 0;
   transition: all 0.4s ease-in-out;
 }
